@@ -1,0 +1,4 @@
+C:\Users\Belik\documents\visual studio 2010\Projects\Tarea2BD\Tarea2BD\bin\Tarea2BD.dll
+C:\Users\Belik\documents\visual studio 2010\Projects\Tarea2BD\Tarea2BD\bin\Tarea2BD.pdb
+C:\Users\Belik\documents\visual studio 2010\Projects\Tarea2BD\Tarea2BD\obj\Debug\Tarea2BD.dll
+C:\Users\Belik\documents\visual studio 2010\Projects\Tarea2BD\Tarea2BD\obj\Debug\Tarea2BD.pdb
